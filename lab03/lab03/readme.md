@@ -175,6 +175,7 @@ Motive pentru care nu am obtinut scalabilitate
 in loc sa folosim un mutex pentru suma globala am calculat suma locala in fiecare tren si facem o singura adunare la final
 
 ## ex 11 prepStrassen.c
+
 tavi@Tavi:/mnt/d/Algoritmi paraleli/lab03/lab03$ ./testCorrectnessIntensive.sh prepStrassen-seq prepStrassen 1 1000
 The result of your parallel program is
 ======================================
