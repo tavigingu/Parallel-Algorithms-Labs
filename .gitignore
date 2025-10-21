@@ -1,0 +1,12 @@
+# fișiere generate
+*.exe
+*.out
+*.o
+*.obj
+*.log
+
+# foldere de build
+/build/
+/bin/
+/Debug/
+/Release/
