@@ -1,0 +1,18 @@
+# Executables
+bubbleSort-seq
+mergeSort-seq
+mergeSort-par
+oets-par
+sheerSort-seq
+sheerSort-par
+
+# Test output files
+out*
+
+# Object files
+*.o
+*.a
+
+# Core dumps
+core
+core.*

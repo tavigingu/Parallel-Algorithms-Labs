@@ -1,0 +1,13 @@
+oneProducerOneConsumerOneBuffer
+oneProducerOneConsumerFiveBuffer
+multipleProducersMultipleConsumers
+philosophers
+readersWriters
+smokers
+barber
+oneProducerOneConsumer-fakeForScriptSeq
+multipleProducersMultipleConsumers-fakeForScriptSeq
+philosophers-fakeForScriptSeq
+readersWriters-fakeForScriptSeq
+smokers-fakeForScriptSeq
+barber-fakeForScriptSeq
