@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6E54VP1TRxs/oS+YOWyhgzkuXLc6Vxnko1l3kv7LxQWr2splR45Ot+gFW1lExSFxOcpzT26hc4Wr+P8/0odP+w==",
+  "success": true,
+  "projectFilePath": "/home/tavi/Parallel-Algorithms-Labs/lab12/ex03/ex03.csproj",
+  "expectedPackageFiles": [
+    "/home/tavi/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/tavi/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/tavi/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.36/microsoft.netcore.app.host.linux-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

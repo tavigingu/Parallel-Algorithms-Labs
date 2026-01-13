@@ -1,0 +1,15 @@
+/home/tavi/Parallel-Algorithms-Labs/lab12/ex02/bin/Debug/net6.0/ex02
+/home/tavi/Parallel-Algorithms-Labs/lab12/ex02/bin/Debug/net6.0/ex02.deps.json
+/home/tavi/Parallel-Algorithms-Labs/lab12/ex02/bin/Debug/net6.0/ex02.runtimeconfig.json
+/home/tavi/Parallel-Algorithms-Labs/lab12/ex02/bin/Debug/net6.0/ex02.dll
+/home/tavi/Parallel-Algorithms-Labs/lab12/ex02/bin/Debug/net6.0/ex02.pdb
+/home/tavi/Parallel-Algorithms-Labs/lab12/ex02/obj/Debug/net6.0/ex02.csproj.AssemblyReference.cache
+/home/tavi/Parallel-Algorithms-Labs/lab12/ex02/obj/Debug/net6.0/ex02.GeneratedMSBuildEditorConfig.editorconfig
+/home/tavi/Parallel-Algorithms-Labs/lab12/ex02/obj/Debug/net6.0/ex02.AssemblyInfoInputs.cache
+/home/tavi/Parallel-Algorithms-Labs/lab12/ex02/obj/Debug/net6.0/ex02.AssemblyInfo.cs
+/home/tavi/Parallel-Algorithms-Labs/lab12/ex02/obj/Debug/net6.0/ex02.csproj.CoreCompileInputs.cache
+/home/tavi/Parallel-Algorithms-Labs/lab12/ex02/obj/Debug/net6.0/ex02.dll
+/home/tavi/Parallel-Algorithms-Labs/lab12/ex02/obj/Debug/net6.0/refint/ex02.dll
+/home/tavi/Parallel-Algorithms-Labs/lab12/ex02/obj/Debug/net6.0/ex02.pdb
+/home/tavi/Parallel-Algorithms-Labs/lab12/ex02/obj/Debug/net6.0/ex02.genruntimeconfig.cache
+/home/tavi/Parallel-Algorithms-Labs/lab12/ex02/obj/Debug/net6.0/ref/ex02.dll

@@ -10,3 +10,7 @@
 /bin/
 /Debug/
 /Release/
+
+# fișiere mari
+lab09/ex02/books.txt
+lab09/ex02/booksLarge.txt
